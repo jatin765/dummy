@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 this is my text file
 
 Hi! I am  FEAS2
 
 another line
+=======
+good morining all of you
+
+i am your boy!!
+>>>>>>> fes3
